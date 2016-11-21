@@ -58,3 +58,9 @@ Using Anaconda API: https://api.anaconda.org
 [I 18:06:49.703 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
 [I 18:07:43.407 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
 [I 18:07:45.093 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
+[I 18:07:52.075 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
+[I 19:13:50.047 NotebookApp] 302 GET / (127.0.0.1) 0.76ms
+[W 19:45:53.064 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20161121165805 (127.0.0.1) 222.00ms referer=http://jupyter.zhengweiyu.com/notebooks/Bay_Area_Bike_Share_Analysis.ipynb
+Using Anaconda API: https://api.anaconda.org
+Using Anaconda API: https://api.anaconda.org
+[W 20:16:51.117 NotebookApp] WebSocket ping timeout after 119170 ms.
