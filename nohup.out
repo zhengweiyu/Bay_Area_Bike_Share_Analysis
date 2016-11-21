@@ -31,3 +31,30 @@
 [I 16:49:36.268 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
 Using Anaconda API: https://api.anaconda.org
 [W 16:52:06.304 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 16:52:38.245 NotebookApp] Kernel interrupted: c4c9529a-5fdc-478b-b651-4271bc7dff6f
+[I 16:52:45.412 NotebookApp] Kernel interrupted: c4c9529a-5fdc-478b-b651-4271bc7dff6f
+[I 16:52:55.596 NotebookApp] Kernel restarted: c4c9529a-5fdc-478b-b651-4271bc7dff6f
+[I 16:53:38.335 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
+[W 16:54:28.971 NotebookApp] WebSocket ping timeout after 90000 ms.
+[C 16:56:50.115 NotebookApp] received signal 15, stopping
+[I 16:56:50.116 NotebookApp] Shutting down kernels
+[I 16:56:50.218 NotebookApp] Kernel shutdown: c4c9529a-5fdc-478b-b651-4271bc7dff6f
+[I 16:58:05.508 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[I 16:58:05.514 NotebookApp] Writing notebook server cookie secret to /run/user/500/jupyter/notebook_cookie_secret
+[I 16:58:10.605 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 16:58:10.605 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 16:58:10.618 NotebookApp] [nb_conda] enabled
+[I 16:58:11.106 NotebookApp] [nb_anacondacloud] enabled
+[I 16:58:11.122 NotebookApp] Serving notebooks from local directory: /home/ubuntu/workspace/P0_bike_sharing
+[I 16:58:11.122 NotebookApp] 0 active kernels 
+[I 16:58:11.122 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8081/
+[I 16:58:11.122 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 17:02:42.483 NotebookApp] Kernel started: 6fa76e94-1e94-46c0-9a3d-2a32d20dd897
+[I 17:06:11.873 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
+[W 17:16:13.571 NotebookApp] WebSocket ping timeout after 110399 ms.
+[I 17:21:51.695 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
+[W 18:02:23.548 NotebookApp] 405 HEAD / (127.0.0.1) 0.98ms referer=None
+[I 18:06:00.727 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
+[I 18:06:49.703 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
+[I 18:07:43.407 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
+[I 18:07:45.093 NotebookApp] Saving file at /Bay_Area_Bike_Share_Analysis.ipynb
